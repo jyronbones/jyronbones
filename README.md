@@ -24,3 +24,17 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+<div id="lang_badges">
+## 💻 Languages and Tools:
+
+![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-blueviolet?style=flat&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellowgreen?style=flat&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-blue?style=flat&logo=sql&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-purple?style=flat&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-blueviolet?style=flat&logo=css3&logoColor=white)
+</div>
