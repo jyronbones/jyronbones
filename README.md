@@ -25,6 +25,9 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/byron-jones89/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+<br><a href="https://www.github.com/jyronbones/">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=Github&logoColor=white" alt="GitHub Badge"/>
+  </a>
 <br><br>
 </div>
 <div id="lang_badges">
