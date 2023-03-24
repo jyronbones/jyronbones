@@ -28,8 +28,9 @@ Here are some ideas to get you started:
 <br><br><br>
 </div>
 <div id="lang_badges">
-  💻 Languages and Tools:
 <br>
+  💻 Languages and Tools:
+
   ![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white)
   ![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B&logoColor=white)
   ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
