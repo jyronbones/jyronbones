@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 -->
 <div id="badges">
-📫 How to reach me:
+<h3>📫 How to reach me</h3>:
 <br>
   <a href="https://www.linkedin.com/in/byron-jones89/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="120" />
