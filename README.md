@@ -25,10 +25,10 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/byron-jones89/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<br><br><br>
+<br><br>
 </div>
 <div id="lang_badges">
-<br>
+<br></br>
   💻 Languages and Tools:
 
   ![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white)
