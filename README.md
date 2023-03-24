@@ -27,7 +27,6 @@ Here are some ideas to get you started:
   </a>
 </div>
 <div id="lang_badges">
-  <p>
     💻 Languages and Tools:
 
       ![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white)
@@ -40,5 +39,4 @@ Here are some ideas to get you started:
       ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat&logo=php&logoColor=white)
       ![HTML](https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white)
       ![CSS](https://img.shields.io/badge/-CSS-blueviolet?style=flat&logo=css3&logoColor=white)
-  </p>
 </div>
