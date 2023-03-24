@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 📫 How to reach me:
 <br>
   <a href="https://www.linkedin.com/in/byron-jones89/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="120" height="30"/>
   </a>
 <br><a href="https://www.github.com/jyronbones/">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" width="120" height="30" alt="GitHub Badge"/>
   </a>
 <br><a href="https://jyronbones.github.io/">
-  <img alt="Personal Website" src="https://img.shields.io/badge/-Website-blueviolet?style=flat&logo=Google-Chrome&logoColor=white" />
+  <img alt="Personal Website" src="https://img.shields.io/badge/-Website-blueviolet?style=flat&logo=Google-Chrome&logoColor=white" width="120" height="30" />
 </a>
 <br><br>
 </div>
