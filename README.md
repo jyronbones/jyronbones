@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 <br><br>
 </div>
 <div id="lang_badges">
-<br></br>
   💻 Languages and Tools:
 
   ![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white)
