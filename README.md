@@ -61,7 +61,3 @@ Here are some ideas to get you started:
     </div>
   </div>
 </div>
-
-<a href="https://github.com/jyronbones">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jyronbones&count_private=true&show_icons=true&theme=radical&custom_title=Total+Commits" alt="Byron's GitHub Stats" />
-</a>
