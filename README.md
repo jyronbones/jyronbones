@@ -49,7 +49,9 @@ Here are some ideas to get you started:
 
 <!-- Dynamic GitHub Stats -->
 <div>
-  <h3>GitHub Stats</h3>
+  <h3>🔥GitHub Stats</h3>
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jyronbones&count_private=true&show_icons=true&theme=radical" alt="Byron's GitHub Stats" />
   
   <a href="https://github.com/jyronbones">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jyronbones&show_icons=true&theme=radical" alt="Byron's GitHub Stats" />
