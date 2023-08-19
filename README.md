@@ -51,5 +51,6 @@ Here are some ideas to get you started:
 <div>
   <h3>GitHub Stats</h3>
 </div>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jyronbones&show_icons=true&theme=radical)
 
