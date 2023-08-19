@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 -->
 <div id="badges">
-  <br><h3>📫 How to reach me</h3>
+  <h3>📫 How to reach me</h3>
   <a href="https://www.linkedin.com/in/byron-jones89/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="120" />
   </a><br>
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <a href="https://www.github.com/jyronbones/">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"  width="120" />
   </a>
-  <br><br>
+  <br>
 </div>
 <div id="lang_badges">
   <h3>💻 Languages and Tools</h3>
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat&logo=php&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-blueviolet?style=flat&logo=css3&logoColor=white)
-<br></div>
+</div>
 
 <!-- Dynamic GitHub Stats -->
 <div>
