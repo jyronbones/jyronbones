@@ -47,10 +47,15 @@ Here are some ideas to get you started:
 ![CSS](https://img.shields.io/badge/-CSS-blueviolet?style=flat&logo=css3&logoColor=white)
 </div>
 
-<a href="https://github.com/jyronbones">
+<!-- Dynamic GitHub Stats -->
+<div>
+  <h3>GitHub Stats</h3>
+  
+  <a href="https://github.com/jyronbones">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jyronbones&show_icons=true&theme=radical" alt="Byron's GitHub Stats" />
 </a>
 <a href="https://github.com/jyronbones">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyronbones&layout=compact&theme=radical" alt="Byron's Top Languages" />
 </a>
-
+  
+</div>
