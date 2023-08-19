@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </a><br>
 </li>
 <li>
-  <a href="https://www.github.com/jyronbones/">
+  Checkout my <a href="https://www.github.com/jyronbones/">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"  width="120" />
   </a>
 </li>
