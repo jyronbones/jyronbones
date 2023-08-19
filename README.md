@@ -1,8 +1,8 @@
-<div id="header" align="center">
+<div align="center">
   <img src="https://github.com/jyronbones/jyronbones.github.io/blob/main/images/catrun.gif" width="200"/>
 </div>
 
-### Hi there, I'm Byron 👋
+## Hi there, I'm Byron 👋
 
 <!--
 **jyronbones/jyronbones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
