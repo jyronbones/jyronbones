@@ -56,7 +56,7 @@ Here are some ideas to get you started:
     </div>
     <div style="flex: 1;">
       <a href="https://github.com/jyronbones">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyronbones&layout=compact&theme=radical&langs_count=6&hide=html,css" alt="Byron's Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyronbones&layout=compact&theme=radical&langs_count=8&hide=html,css" alt="Byron's Top Languages" />
       </a>
     </div>
   </div>
