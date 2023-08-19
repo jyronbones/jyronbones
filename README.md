@@ -49,7 +49,16 @@ Here are some ideas to get you started:
 
 <div id="github_stats">
   <h3>🔥 GitHub Stats</h3>
-
+<p align="left">
+  <a href="https://github.com/jyronbones">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyronbones&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
+</p>
+  <p align="left">
+  <a href="https://github.com/jyronbones">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jyronbones&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
+</p>
   <div style="display: flex; gap: 20px;">
     <div style="flex: 1;">
       <img src="https://github-readme-stats.vercel.app/api?username=jyronbones&count_private=true&show_icons=true&theme=radical&custom_title=Total+Commits" alt="Byron's GitHub Stats" />
