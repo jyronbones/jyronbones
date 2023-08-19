@@ -46,3 +46,6 @@ Here are some ideas to get you started:
 ![HTML](https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-blueviolet?style=flat&logo=css3&logoColor=white)
 </div>
+
+<!-- Dynamic GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jyronbones&show_icons=true&theme=radical)
