@@ -52,11 +52,11 @@ Here are some ideas to get you started:
 
   <div style="display: flex; gap: 20px;">
     <div style="flex: 1;">
-      <img src="https://github-readme-stats.vercel.app/api?username=jyronbones&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=jyronbones&count_private=true&show_icons=true&theme=radical" alt="Byron's GitHub Stats" />
     </div>
     <div style="flex: 1;">
       <a href="https://github.com/jyronbones">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyronbones&layout=compact&theme=radical" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyronbones&layout=compact&theme=radical" alt="Byron's Top Languages" />
       </a>
     </div>
   </div>
