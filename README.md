@@ -23,17 +23,17 @@ Here are some ideas to get you started:
 <h3>📫 How to reach me</h3>
   <ul>
     <li>
-          Connect with me on <a href="https://www.linkedin.com/in/byron-jones89/">
+      <a href="https://www.linkedin.com/in/byron-jones89/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="120" />
 </a><br>
     </li>
 <li>
-  Explore my <a href="https://jyronbones.github.io/">
+  <a href="https://jyronbones.github.io/">
   <img alt="Personal Website" src="https://img.shields.io/badge/-Website-blueviolet?style=flat&logo=Google-Chrome&logoColor=white" width="120" />
 </a><br>
 </li>
 <li>
-  Checkout my <a href="https://www.github.com/jyronbones/">
+  <a href="https://www.github.com/jyronbones/">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"  width="120" />
   </a>
 </li>
