@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 <div id="badges">
 <h3>📫 How to reach me</h3>
-<a href="https://www.linkedin.com/in/byron-jones89/">
+Connect with me on <a href="https://www.linkedin.com/in/byron-jones89/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="120" />
 </a>
   <br><a href="https://jyronbones.github.io/">
