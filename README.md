@@ -47,11 +47,5 @@ Here are some ideas to get you started:
 ![CSS](https://img.shields.io/badge/-CSS-blueviolet?style=flat&logo=css3&logoColor=white)
 </div>
 
-<!-- Dynamic GitHub Stats -->
-<div id="github_stats">
-  <H3> GitHub Stats</H3>
-  <p>
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jyronbones&show_icons=true&theme=radical)
-  </p>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jyronbones&show_icons=true&theme=radical)
 
