@@ -55,10 +55,4 @@ Here are some ideas to get you started:
   
 </div>
 
-<!-- Recent Activity -->
-<div>
-  <h3>Recent Activity</h3>
-  
-  ![Recent GitHub Activity](https://github-readme-stats.vercel.app/api?username=jyronbones&hide=contribs,prs&count_private=true&show_icons=true&theme=radical)
-  
-</div>
+
