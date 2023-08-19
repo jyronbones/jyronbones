@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
   <div style="display: flex; gap: 20px;">
     <div style="flex: 1;">
-      <img src="https://github-readme-stats.vercel.app/api?username=jyronbones&count_private=true&show_icons=true&theme=radical" alt="Byron's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=jyronbones&count_private=true&show_icons=true&theme=radical&custom_title=Total+Commits" alt="Byron's GitHub Stats" />
     </div>
     <div style="flex: 1;">
       <a href="https://github.com/jyronbones">
@@ -63,5 +63,5 @@ Here are some ideas to get you started:
 </div>
 
 <a href="https://github.com/jyronbones">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jyronbones&count_private=true&show_icons=true&theme=radical&custom_title=Total+Commits" alt="Total Commits" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jyronbones&count_private=true&show_icons=true&theme=radical&custom_title=Total+Commits" alt="Byron's GitHub Stats" />
 </a>
