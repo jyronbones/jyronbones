@@ -50,7 +50,9 @@ Here are some ideas to get you started:
 <!-- Dynamic GitHub Stats -->
 <div>
   <h3>GitHub Stats</h3>
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jyronbones&show_icons=true&theme=radical)
+  
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jyronbones&show_icons=true&theme=radical)
 
