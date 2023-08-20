@@ -5,7 +5,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>Hey There!, I am
-                <b><a target="_blank" href="https://jyronbones.com">Byron Jones</a></b>
+                <b><a target="_blank" href="https://jyronbones.github.io">Byron Jones</a></b>
         </samp>
 </h3>
 
