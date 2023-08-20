@@ -1,6 +1,10 @@
 <a href="https://komarev.com/ghpvc/?username=jyronbones">
   <img align="right" src="https://komarev.com/ghpvc/?username=jyronbones&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+</a><br>
+
+<div id="header" align="center">
+  <img src="https://github.com/jyronbones/jyronbones.github.io/blob/main/images/SoftDev.gif" width="200"/>
+</div>
 
 <!-- Intro  -->
 <h3 align="center">
