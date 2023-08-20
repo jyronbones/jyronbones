@@ -35,9 +35,9 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✨ &emsp; Code enthusiast and problem solver <br/><br/>
- 🚀 &emsp; Love writing code, learning new features, and embracing challenges<br/><br/>
- 🔍 &emsp; Contact me [here](https://jyronbones.github.io/#contact)
+ ✨ &emsp; My journey is fueled by a passion for problem-solving and a relentless desire to create efficient solutions<br/><br/>
+ 🚀 &emsp; Armed with a keyboard and a cup of coffee, I embark on coding adventures, turning lines of logic into functional and beautiful realities<br/><br/>
+ 🔍 &emsp; Let's connect! Feel free to drop me a message [here](https://jyronbones.github.io/#contact)
 
 </p>
 
