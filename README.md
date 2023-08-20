@@ -37,7 +37,7 @@
   
  ✨ &emsp; Code enthusiast and problem solver <br/><br/>
  🚀 &emsp; Love writing code, learning new features, and embracing challenges<br/><br/>
- 🔍 &emsp; Ask me about anything [here](https://github.com/jyronbones/jyronbones/issues)
+ 🔍 &emsp; Contact me [here](https://jyronbones.github.io/#contact)
 
 </p>
 
