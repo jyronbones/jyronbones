@@ -4,7 +4,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp>Hey There!, I am
                 <b><a target="_blank" href="https://jyronbones.com">Byron Jones</a></b>
         </samp>
 </h3>
