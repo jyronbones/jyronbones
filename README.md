@@ -35,8 +35,8 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✨ &emsp; My journey is fueled by a passion for problem-solving and a relentless desire to create efficient solutions<br/><br/>
- 🚀 &emsp; Armed with a keyboard and a cup of coffee, I embark on coding adventures, turning lines of logic into functional and beautiful realities<br/><br/>
+ ✨ &emsp; Passionate about building user-friendly and scalable software<br/><br/>
+ 🚀 &emsp; Strong problem solver and always up for a challenge<br/><br/>
  🔍 &emsp; Let's connect! Feel free to drop me a message [here](https://jyronbones.github.io/#contact)
 
 </p>
@@ -99,13 +99,13 @@
 
 <p align="center">
   <a href="https://github.com/jyronbones">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyronbones&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyronbones&theme=radical&border=7F3FBF&background=0D1117" alt="Byron's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/jyronbones">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jyronbones&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jyronbones&theme=radical" alt="Byron's GitHub Contribution"/>
   </a>
 </p>
 
