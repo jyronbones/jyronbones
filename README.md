@@ -84,8 +84,8 @@
 <br/>
 
 ## Featured Repositories
+[![Pilot Website](https://github-readme-stats.vercel.app/api/pin/?username=jyronbones&repo=PilotWebsite&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jyronbones/PilotWebsite)
 [![Dropship Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=jyronbones&repo=DropshipAnalyzer&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jyronbones/DropshipAnalyzer)
-[![Number Puzzle Game](https://github-readme-stats.vercel.app/api/pin/?username=jyronbones&repo=NumberPuzzle&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jyronbones/NumberPuzzle)
 [![GPU Discord Bot Notifier](https://github-readme-stats.vercel.app/api/pin/?username=jyronbones&repo=GPUDiscordBotNotifier&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jyronbones/GPUDiscordBotNotifier)
 [![Discord Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=jyronbones&repo=NeoBot&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jyronbones/NeoBot)
 
