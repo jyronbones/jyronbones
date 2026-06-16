@@ -23,9 +23,6 @@
  <a href="https://dev.to/jyronbones" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="jyronbones" />
  </a>
- <a href="https://www.instagram.com/byronjones_/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="jyronbones" />
- </a> 
 </p>
 <br />
 
